@@ -2,7 +2,7 @@
 
 - 👋 Hi, My name is Onyeogo Kerry from Lagos, Nigeria
 - 👀 I’m interested into backend Web development
-- 🌱 I’m currently into Python and the Django framework, would love to add one more python framework to my books though.
+- 🌱 I’m currently into Python and the Django framework, I never stop learning, adding more backend languages to my books.
 - 💞️ I’m looking forward to blockchain in the nearest future
 - 📫 How to reach me, contact me @ kerryonyeogo@gmail.com
 
