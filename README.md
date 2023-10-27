@@ -1,9 +1,8 @@
 # My Profile
 
 - 👋 Hi, My name is Onyeogo Kerry from Lagos, Nigeria.
-- 👀 I’m interested into backend Web development.
-- 🌱 I’m currently into Python and the Django framework, I never stop learning.
-- 🌱 I am currently learning JavaScript and NodeJS.
+- 👀 I’m interested in Backend Engineering.
+- 🌱 My main stacks are Python and the Django framework, Node.Js and Express.Js.
 - 💞️ I’m looking forward to blockchain in the nearest future.
 - 📫 How to reach me, contact me @ kerryonyeogo@gmail.com.
 
